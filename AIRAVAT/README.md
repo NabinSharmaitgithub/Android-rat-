@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src='AIRAVAT/logo.png' style="height:100px;width:100px;" >
+<img src='logo.png' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>AIRAVAT</h1>
 
