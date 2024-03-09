@@ -57,7 +57,7 @@
 1. Click on Restore option and select  ``` Instagram Mod.swb ``` file in Sketchware Pro
 1. Now open the project and in Library Menu  go to  Firebase Section and fill all the data using ```google-services.json``` file.
 1. In Project ID Field after putting your Project Name add ``` -default-rtdb``` . Example > myproject```-default-rtdb```
-1. <img src="images/img3.png">
+1. <img src="image/img3.png">
 1. Now click on **Run** to Build the App , use any APK Signer Tool to sign it.
 1. You app is Now ready.
 1. When user will install the app his/her session will appear on Web Panel click on the User to establish Connection with that specified Device.
@@ -104,24 +104,4 @@ clear | Clears the Web Terminal | ```clear```
 
 
 ---
-
-# Made with :heart: in Sketchware
-<!-- 
-* Thanks to [Modder Team](https://discord.gg/p7D5Nt687K) of Sketchware Pro For adding new features in Official Sketchware.
--->
----
-
-### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/Ohm](http://reporoster.com/stars/dark/Th30neAnd0nly/Ohm)](https://github.com/Th30neAnd0nly/Ohm/stargazers)
-
-[![Forkers repo roster for @th30neand0nly/Ohm](http://reporoster.com/forks/dark/Th30neAnd0nly/Ohm)](https://github.com/Th30neAnd0nly/Ohm/network/members)
-
-## DISCLAIMER
-<p align="center">
- TO BE USED FOR EDUCATIONAL PURPOSES ONLY
-</p>
-
-
-The use of the OHM is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
-
 
