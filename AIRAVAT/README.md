@@ -1,4 +1,4 @@
-//AIRAVAT_nabin//
+AIRAVAT_nabin
 <p align="center">
 <img src='logo.png' style="height:100px;width:100px;" >
 </p>
